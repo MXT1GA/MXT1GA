@@ -3,7 +3,7 @@
 - 🌱 At the moment I am learning flask, postgresql, SQLAlchemy 
 - 💞️ I want to contribute my share to some projects
 - 📫 You can contact me via telegram @web_money_official
-- 😄 Pronouns: male
+- 😄 Pronouns: he/him
 - ⚡ Interesting fact: I am 19 years old
 
 
